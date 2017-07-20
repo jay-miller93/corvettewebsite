@@ -4,3 +4,6 @@
     background-image:url('image/maxresdefault.jpg');
     background-size:cover;
 }
+h1.container#trailer{
+    text-align:right;
+}
